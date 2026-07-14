@@ -1,0 +1,6 @@
+{
+  "name": "Furry Player",
+  "description": "A beautiful multi-format player for audio, video, images, PDFs, and text with a cozy frosted glass furry aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
